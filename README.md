@@ -1,4 +1,4 @@
-OOP Principles in Unity – A Practical Guide with C# 🎮
+<h1>OOP Principles in Unity – A Practical Guide with C# 🎮</h1>
 Overview
 This project is built in Unity and demonstrates Object-Oriented Programming (OOP) principles using C# scripts. Each OOP concept (Encapsulation, Abstraction, Inheritance, and Polymorphism) is explained through practical examples in the Unity Editor, helping developers understand how to apply OOP in real-world Unity game development.
 
